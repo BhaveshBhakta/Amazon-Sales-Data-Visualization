@@ -31,7 +31,7 @@ Kaggle - https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-
 To get started with the project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Amazon-Sales-Data-Visualization.git
+git clone https://github.com/BhaveshBhakta/Amazon-Sales-Data-Visualization.git
 cd Amazon-Sales-Data-Visualization
 ```
 
